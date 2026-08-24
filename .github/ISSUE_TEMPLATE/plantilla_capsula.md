@@ -2,8 +2,8 @@
 name: Nueva Cápsula Multimedia
 about: Plantilla base para programar una nueva capsula
 title: "Capsula #[x]"
-labels: ''
-assignees: 'Capsulas'
+labels: 'Capsulas'
+assignees: 'r-alexander-villegas-julio'
 ---
 
 ### Responsables de esta cápsula
